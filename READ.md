@@ -1,3 +1,6 @@
+# Watch Here!
+https://www.loom.com/share/bf174655ed5142bf9f8164f6a0c08064
+
 # Project 02 — EC2 Web Server with Terraform
 
 ![AWS](https://img.shields.io/badge/AWS-EC2-orange?logo=amazonaws)
